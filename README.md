@@ -1,6 +1,6 @@
 # Monitoring-101
 
-**Monitoring tools enable you to: **
+**Monitoring tools enable you to:**
 1.  Ensure the hardware is working (Hard drive, motherboard, cpu, ect.)
 2. Uptime (mostly for online servers)
 3. Sufficient resources are available (storage, memory, cpu,ect.)
