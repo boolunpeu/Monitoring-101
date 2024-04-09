@@ -17,7 +17,8 @@
 I prefer htop since it use color and its more "friendly appareance" compared to top.
 # **This is htop**
 
-![[htop 1.png]]
+![htop](https://github.com/boolunpeu/Monitoring-101/assets/131985567/3194e83a-43b8-4907-bc30-1e3cb00d519a)
+
 
 	command used : 
 	sudo apt update 
@@ -39,7 +40,8 @@ htop dont take argument but you can use shortcut in it to help you access the da
 
 Now let's focus on the metric actually shown in htop to understand what are we looking and what to monitor 
 
-![[bar.png]]
+![bar](https://github.com/boolunpeu/Monitoring-101/assets/131985567/cd472ee6-e69d-47d0-a128-80f62bd81a6d)
+
 
 1. **PID (Process ID)**: This is the unique identifier assigned to each running process by the operating system. It is used to distinguish one process from another.
     
