@@ -14,15 +14,6 @@ Focus areas :
 
 ## **Monitoring tools :** 
 
-**Using nmap :** 
-
-***what is Nmap ?** : Nmap (Network Mapper) is a widely-used open-source security scanning tool used to discover hosts and services on a computer network. It provides various scanning techniques to determine what hosts are available on the network, what services they are offering, and what operating systems they are running.*
-
-**command used :**
-- `nmap sS  `
-
-![Capture](https://github.com/boolunpeu/Monitoring-101/assets/131985567/b192aa3b-2a85-48b8-b37a-1a6f39c3d3ce)
-
 **Using Sysstat :** 
 
 ***what is Sysstat ?** : Sysstat is a collection of performance monitoring tools for Unix/Linux systems. It includes utilities like sar, iostat, mpstat, and pidstat, which provide detailed statistics on CPU, memory, disk I/O, and process activity. Sysstat helps system administrators monitor system performance and diagnose issues*.
